@@ -6,6 +6,6 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function() {
-  let ciao = "fdasnjokfdasoinfbnjosddfnjokiasnjolkdafb";
+  let hola = "fdasnjokfdasoinfbnjosddfnjokiasnjolkdafb";
   console.log("Hello Rigo from the console!");
 };
